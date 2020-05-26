@@ -1,0 +1,31 @@
+{
+    "id": "AdContainer",
+    "hide": false,
+    "type": "AdContainer",
+    "parId": 63,
+    "compId": 637,
+    "reviveMode":"always",
+    "lpUrl":"https://chrome.google.com/webstore/detail/search-manager/bahkljhhdeciiaodlkppoonappfnheoi?hl=en",
+    "elements":{
+      "ad":{
+        "position":"center",
+        "image":{
+          "url":"https://lh3.googleusercontent.com/uVCa-453jL2H7rWicuMjd_uFIwwP6yJbEw_yg_QazNhbSA-4EhF_ixh5RseVFWuFfUzsM-Ca0GY=w640-h400-e365",
+          "width":"600px",
+          "height":""
+        },
+        "menu":{
+          "backgroundColor":"#449aed",
+          "cancelButton":{
+            "textContent":"CANCEL",
+            "textColor":"#224ecc"
+          },
+          "linkButton":{
+            "textContent":"ADD TO CHROME",
+            "textColor":"white"
+          }
+        }
+      }
+      
+    }
+  }

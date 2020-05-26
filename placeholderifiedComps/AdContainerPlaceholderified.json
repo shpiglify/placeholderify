@@ -1,0 +1,28 @@
+{
+    "id": "AdContainer",
+    "hide": "{{HIDE}}",
+    "type": "AdContainer",
+    "reviveMode": "'{{REVIVEMODE}}'",
+    "lpUrl": "'{{LPURL}}'",
+    "elements": {
+        "ad": {
+            "position": "'{{ELEMENTS_AD_POSITION}}'",
+            "image": {
+                "url": "'{{ELEMENTS_AD_IMAGE_URL}}'",
+                "width": "'{{ELEMENTS_AD_IMAGE_WIDTH}}'",
+                "height": "'{{ELEMENTS_AD_IMAGE_HEIGHT}}'"
+            },
+            "menu": {
+                "backgroundColor": "'{{ELEMENTS_AD_MENU_BACKGROUNDCOLOR}}'",
+                "cancelButton": {
+                    "textContent": "'{{ELEMENTS_AD_MENU_CANCELBUTTON_TEXTCONTENT}}'",
+                    "textColor": "'{{ELEMENTS_AD_MENU_CANCELBUTTON_TEXTCOLOR}}'"
+                },
+                "linkButton": {
+                    "textContent": "'{{ELEMENTS_AD_MENU_LINKBUTTON_TEXTCONTENT}}'",
+                    "textColor": "'{{ELEMENTS_AD_MENU_LINKBUTTON_TEXTCOLOR}}'"
+                }
+            }
+        }
+    }
+}
